@@ -1,2 +1,3 @@
 # hello-world
-Training repository
+My training repository <br>
+Made for experimets with Git and Selenium WebDriver
